@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">arcore-location</string>
+    <string name="plane_finding">Searching for surfaces&#8230;</string>
+</resources>
